@@ -1,1 +1,3 @@
 First sentence on branch, typed on remote repo
+
+After fetching, then checkout, now viming this on Win10
